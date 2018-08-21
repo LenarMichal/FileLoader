@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.background
+{
+	-fx-background-color:darkcyan;
+	
+	
+}
+
+
+.button {
+	-fx-font: bold 10pt 'sans-serif';
+}
+
+#textfield {
+	
+	
+	-fx-font: bold 10pt 'sans-serif';
+}
+
+
+

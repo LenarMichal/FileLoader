@@ -1,0 +1,12 @@
+Charlie Brown 2 6 12 
+Jan Kowalski 4 7 15 
+Homer Simpson 3 9 16 
+Stefan Nowak 1 8 12 
+Micha³ Lenar 5 10 14 
+Kate Bush 5 9 17 
+Elvis Presley 3 3 8 
+Bruno Mars 5 13 18 
+Fryderyk Chopin 3 5 15 
+Ignacy Paderewski 2 16 22 
+Arnold Schwarzeneger 1 7 22 
+Micha³ Lenar 2 8 16 
