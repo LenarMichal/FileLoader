@@ -1,1 +1,1 @@
-# FileLoader
+# FileLoader - Aplikacja pobiera dane z pliku tekstowego do specjalnie przygotowanej tabeli w JAVAFX. Dane te można modyfikować i zapisywać do oddzielnego pliku dedykowanym przyciskiem. Są to dane pracowników firmy z imieniem i nazwiskiem, przypisanym numerem pokoju oraz godziny w których pracują. Istnieje możliwość wygenerowania raportu który przedstawia pracowników w zależności od ilości przepracowanych godzin w ciągu dnia. Aplikacja pokazuje również na specjalnym schemacie biura pokój do którego przypisany jest dany pracownik.
